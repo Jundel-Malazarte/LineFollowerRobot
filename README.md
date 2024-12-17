@@ -8,17 +8,17 @@
 
 ## Components:
 
-•	5mm Acrylic Sheet (20cm x 12cm) / 5mm Chases sheet
-•	DC Gear Motor x 4 / 2x
-•	Front wheel 1x if 2wheels robot
-•	Arduino UNO
-•	IR Sensor x 2
-•	L298 Motor Driver
-•	Smart Robot Car Tyers Wheels x2
-•	Male to Female Jumper Wires 30x
-•	On/Off Switch
-•	18650 Battery Holder – 2 Cell
-•	18650 Battery Cell 3.7V x 2
+- 5mm Acrylic Sheet (20cm x 12cm) / 5mm Chases sheet
+- DC Gear Motor x 4 / 2x
+- Front wheel 1x if 2wheels robot
+- Arduino UNO
+- IR Sensor x 2
+- L298 Motor Driver
+- Smart Robot Car Tyers Wheels x2 /4x
+- Male to Female Jumper Wires 30x
+-	On/Off Switch
+-	18650 Battery Holder – 2 Cell
+-	18650 Battery Cell 3.7V x 2
 
 ## Circuit Diagram
 
