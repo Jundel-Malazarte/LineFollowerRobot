@@ -26,5 +26,31 @@
 
 ![diagram](./Diagram/Circuit-Diagram.png)
 
+## Phase: 1
+
+![phase1](./documentation/images/Phase1.jpeg)
+
+## Phase: 2
+
+![phase2](./documentation/images/Phase2.jpeg)
+
+## Phase: 3
+
+![phase3](./documentation/images/Phase3.jpeg)
+
+## Phase: 4
+
+![phase4](./documentation/images/Phase4.jpeg)
+
+### Deployment
+## Demo
+
+<div align="center">
+    <img src="./documentation/images/Demo1.jpeg" alt="demo1"> <img src="./documentation/images/Demo2.jpeg" alt="demo2">
+    <h3>Deploment of the Arduino Project</h3>
+<div>
+
+
+
 
 
