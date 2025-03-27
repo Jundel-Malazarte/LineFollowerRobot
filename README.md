@@ -47,7 +47,7 @@
 
 <div align="center">
     <img src="./documentation/images/Demo1.jpeg" alt="demo1"> <img src="./documentation/images/Demo2.jpeg" alt="demo2">
-    <h3>Deploment of the Arduino Project</h3>
+    <h3>Deployment of the Arduino Project</h3>
 <div>
 
 
